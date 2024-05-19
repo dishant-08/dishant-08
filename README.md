@@ -65,6 +65,6 @@ Passionate about crafting applications that make an impact. I specialize in Reac
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishant-08&show_icons=true&locale=en" alt="ankit3388" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-08&" alt="ankit3388" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-08" alt="dishant08" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishant-08&label=Profile%20views&color=0e75b6&style=flat" alt="ankit3388" /> </p>
