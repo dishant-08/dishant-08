@@ -47,6 +47,8 @@ Passionate about crafting applications that make an impact. I specialize in Reac
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishant-08&show_icons=true&locale=en&layout=compact" alt="dishant-08" /></p>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dishant-08&theme=tokyo-night&hide_border=true&bg_color=0d1117)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishant-08&show_icons=true&locale=en" alt="dishant-08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-08" alt="dishant08" /></p>
